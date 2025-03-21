@@ -1,6 +1,6 @@
 
 const mongoose = require('mongoose')
-const url  = require('../routes/dB.JS')
+const url  = require('../routes/dbu.JS')
 
 // mongodb+srv://<db_username>:<db_password>@cluster0.z90dk.mongodb.net/
 // mongodb+srv://meetvaghela:123@for.qxwf7.mongodb.net/
